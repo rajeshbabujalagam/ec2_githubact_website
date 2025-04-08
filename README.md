@@ -7,4 +7,4 @@ Add this as secrets
 	
           USERNAME 
 	
-          TARGET_DIR
+          TARGET_DIR    ( add home under TARGET_DIR)
