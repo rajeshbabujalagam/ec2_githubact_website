@@ -2,5 +2,7 @@
 Add this as secrets 
           EC2_SSH_KEY 
           HOST_DNS 
+	
           USERNAME 
+	
           TARGET_DIR
